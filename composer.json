@@ -1,0 +1,13 @@
+{
+  "require": {
+    "firebase/php-jwt": "6.x-dev",
+    "phpmailer/phpmailer": "^6.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
